@@ -8,7 +8,7 @@ With **Wordware.ai** we can do that within 2 minutes. Recently, I have been tryi
 
 1. **Sign in to Wordware.ai 🔑**
 
-🚀 Head over to [Wordware.ai](https://www.wordware.ai/) and log in to get started!
+     🚀 Head over to [Wordware.ai](https://www.wordware.ai/) and log in to get started!
 
 2. **Create a New Project: 🛠️**
 
@@ -18,7 +18,7 @@ With **Wordware.ai** we can do that within 2 minutes. Recently, I have been tryi
 
 3. **Create a Flow:**
 
- Tap Create a New Flow to begin the magic, Name it and set the input type (Image/Text/File/Audio – whatever works for you). 🖼️🎤
+      Tap Create a New Flow to begin the magic, Name it and set the input type (Image/Text/File/Audio – whatever works for you). 🖼️🎤
 
 
      <img width="1462" alt="Screenshot 2024-10-07 at 1 36 15 PM" src="https://github.com/user-attachments/assets/877f24fe-5747-4858-8c82-d99a0e484864">
@@ -31,7 +31,7 @@ With **Wordware.ai** we can do that within 2 minutes. Recently, I have been tryi
 
 5. **Deploy the application:**
 
-     Upload your pic, hit the button, and let the AI work its magic. 🔄📸
+      Upload your pic, hit the button, and let the AI work its magic. 🔄📸
 
 
     <img width="1454" alt="Screenshot 2024-10-07 at 1 52 48 PM" src="https://github.com/user-attachments/assets/57abeea0-401c-47d6-9db2-b7d830f938d0">
@@ -39,12 +39,11 @@ With **Wordware.ai** we can do that within 2 minutes. Recently, I have been tryi
 
 7. **Boom! Recipe Time 🥳**
 
-You’ve got a recipe generated from that food pic! 🍽️👨‍🍳
+     You’ve got a recipe generated from that food pic! 🍽️👨‍🍳
 
 
     <img width="1454" alt="Screenshot 2024-10-07 at 1 53 50 PM" src="https://github.com/user-attachments/assets/63919bea-22e4-470c-aef6-1f855b7f78b5">
 
-  
 
 ## References:
 
