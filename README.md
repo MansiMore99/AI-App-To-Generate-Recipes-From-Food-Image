@@ -18,13 +18,13 @@ With **Wordware.ai** we can do that within 2 minutes. Recently, I have been tryi
 
 3. **Create a Flow:**
 
-      Tap Create a New Flow to begin the magic, Name it and set the input type (Image/Text/File/Audio – whatever works for you). 🖼️🎤
+      Tap Create a New Flow to begin the magic, Name it, and set the input type (Image/Text/File/Audio – whatever works for you). 🖼️🎤
 
 
      <img width="1462" alt="Screenshot 2024-10-07 at 1 36 15 PM" src="https://github.com/user-attachments/assets/877f24fe-5747-4858-8c82-d99a0e484864">
 
 
- 4. The most important and easiest task, Add ai generation ( placeholder to add LLM completion). The AI is like your head chef - tell it exactly what to do! 👨‍🍳✨
+ 4. The most important and easiest task, add ai generation ( placeholder to add LLM completion). The AI is like your head chef - tell it exactly what to do! 👨‍🍳✨
 
 
      <img width="1452" alt="Screenshot 2024-10-07 at 1 49 50 PM" src="https://github.com/user-attachments/assets/1e8d1dc5-90ca-4d30-a91b-d2e3319a010c">
@@ -46,13 +46,13 @@ With **Wordware.ai** we can do that within 2 minutes. Recently, I have been tryi
 
 ## App:
 
-   [ChefAI](https://app.wordware.ai/explore/apps/b0bfe066-62b8-456c-89ac-4ea688a64ec8/run/b1c7f03a-3aab-4795-a358-39ab66c47b1d)
+  [ChefAI](https://app.wordware.ai/explore/apps/b0bfe066-62b8-456c-89ac-4ea688a64ec8/run/b1c7f03a-3aab-4795-a358-39ab66c47b1d)
 
 
 https://app.wordware.ai/explore/apps/b0bfe066-62b8-456c-89ac-4ea688a64ec8/run/b1c7f03a-3aab-4795-a358-39ab66c47b1d
 ## References:
 
-1. [Link1](https://youtu.be/yNSgFkhBvic?si=SnyBliHKP4i3HQRo)
+   [Link](https://youtu.be/yNSgFkhBvic?si=SnyBliHKP4i3HQRo)
 
 
 ## 💬 Feedback & Support
