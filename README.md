@@ -46,7 +46,7 @@ With **Wordware.ai** we can do that within 2 minutes. Recently, I have been tryi
 
 ## App:
 
-  [ChefAI](https://app.wordware.ai/explore/apps/b0bfe066-62b8-456c-89ac-4ea688a64ec8/run/b1c7f03a-3aab-4795-a358-39ab66c47b1d)
+https://app.wordware.ai/explore/apps/b0bfe066-62b8-456c-89ac-4ea688a64ec8/run/b1c7f03a-3aab-4795-a358-39ab66c47b1d
 
 
 https://app.wordware.ai/explore/apps/b0bfe066-62b8-456c-89ac-4ea688a64ec8/run/b1c7f03a-3aab-4795-a358-39ab66c47b1d
